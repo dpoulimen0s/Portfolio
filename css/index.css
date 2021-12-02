@@ -6,6 +6,11 @@ main > .container {
     padding: 60px 15px 0;
 }
 
+ul {
+    margin-top: 50px;
+    list-style: none;
+    display: flex
+}
 .social-icon {
     height: 70px;
     width: 70px;
