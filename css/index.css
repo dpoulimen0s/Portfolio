@@ -6,17 +6,6 @@ main > .container {
     padding: 60px 15px 0;
 }
 
-#social {
-    margin-top: 60px;
-    text-align: center;
-}
-
-
-ul {
-    list-style: none;
-    display: flex
-}
-
 .social-icon {
     height: 70px;
     width: 70px;
