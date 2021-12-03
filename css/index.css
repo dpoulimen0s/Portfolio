@@ -6,6 +6,11 @@ main > .container {
     padding: 60px 15px 0;
 }
 
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
 ul {
     margin-top: 50px;
     list-style: none;
